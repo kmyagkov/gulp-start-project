@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" id="ui-search">
+    <g fill-rule="nonzero" fill="none">
+        <path d="M0 0h24v24H0z"></path>
+        <circle stroke="currentColor" stroke-width="2" cx="14" cy="10" r="9"></circle>
+        <path d="M7.52 16.48L1 23" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>
